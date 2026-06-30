@@ -7,8 +7,9 @@ permalink: /publications/2023-08-01-hypervelocity-stars-cmc
 excerpt: '<b>Cabrera, Tomás</b>; Rodriguez, C. L.'
 date: 2023-08-01
 venue: 'The Astrophysical Journal'
-paperurl: 'https://academicpages.github.io/files/2023-08-01-hypervelocity-stars-cmc.pdf'
+paperurl: '/files/manuscripts/2023-08-01-hypervelocity-stars-cmc.pdf'
 citation: 'Cabrera, T., Rodriguez, Carl L. &quot;Runaway and Hypervelocity Stars from Compact Object Encounters in Globular Clusters.&quot; <i>The Astrophysical Journal</i>. 953, 1. 2023.'
+mycitation: '<b>Cabrera, T.</b>, Rodriguez, Carl L. &quot;Runaway and Hypervelocity Stars from Compact Object Encounters in Globular Clusters.&quot; <i>The Astrophysical Journal</i>. 953, 1. 2023.'
 ---
 The dense environments in the cores of globular clusters (GCs) facilitate many strong dynamical encounters among stellar objects.
 These encounters have been shown to be capable of ejecting stars from the host GC, whereupon they become runaway stars, or hypervelocity stars (HVSs) if unbound to the galactic potential.

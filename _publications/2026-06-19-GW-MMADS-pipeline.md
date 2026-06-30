@@ -7,8 +7,9 @@ permalink: /publications/2026-06-19-GW-MMADS-pipeline
 excerpt: "Hu, Lei; <b>Cabrera, Tomás</b>; Palmese, Antonella; Wang, Lifan; Andreoni, Igor; Hall, Xander J.; Chen, Xingzhuo; Yang, Jiawen; Valdes, Frank; O'Connor, Brendan; Chen, Yuhan"
 date: 2026-06-19
 venue: 'Publications of the Astronomical Society of the Pacific'
-paperurl: 'https://academicpages.github.io/files/2026-06-19-GW-MMADS-pipeline.pdf'
-citation: 'Hu, Lei, et al. &quot;A GPU-Accelerated Transient Detection Pipeline for DECam Time-Domain Surveys.&quot; <i>Publications of the Astronomical Society of the Pacific</i>. 2026.'
+paperurl: '/files/manuscripts/2026-06-19-GW-MMADS-pipeline.pdf'
+citation: 'Hu, L., et al. &quot;A GPU-Accelerated Transient Detection Pipeline for DECam Time-Domain Surveys.&quot; <i>Publications of the Astronomical Society of the Pacific</i>. 2026.'
+mycitation: 'Hu, L., <b>Cabrera, T.</b>, et al. &quot;A GPU-Accelerated Transient Detection Pipeline for DECam Time-Domain Surveys.&quot; <i>Publications of the Astronomical Society of the Pacific</i>. 2026.'
 ---
 We present a GPU-accelerated transient detection pipeline developed for time-domain surveys with the Dark Energy Camera (DECam).
 It enables real-time-capable image processing, incorporating science-driven candidate filtering to support rapid transient identification in time-critical observing programs.

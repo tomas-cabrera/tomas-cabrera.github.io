@@ -7,8 +7,9 @@ permalink: /publications/2025-09-10-omega-cen-imbh-cmc
 excerpt: "González Prieto, Elena; Rodriguez, Carl L.; <b>Cabrera, Tomás</b>."
 date: 2025-09-10
 venue: 'The Astrophysical Journal Letters'
-paperurl: 'https://academicpages.github.io/files/2025-09-10-omega-cen-imbh-cmc.pdf'
-citation: 'González Prieto, et al. &quot;Growing the Intermediate-mass Black Hole in Omega Centauri.&quot; <i>The Astrophysical Journal Letters</i>. 990, 2. 2025.'
+paperurl: '/files/manuscripts/2025-09-10-omega-cen-imbh-cmc.pdf'
+citation: 'González Prieto, E., et al. &quot;Growing the Intermediate-mass Black Hole in Omega Centauri.&quot; <i>The Astrophysical Journal Letters</i>. 990, 2. 2025.'
+mycitation: 'González Prieto, E., Rodriguez, Carl L., <b> Cabrera, Tomás</b>. &quot;Growing the Intermediate-mass Black Hole in Omega Centauri.&quot; <i>The Astrophysical Journal Letters</i>. 990, 2. 2025.'
 ---
 The recent detection of fast-moving stars in the core of Omega Centauri (ω Cen), the most massive globular cluster (GC) in the Milky Way, has provided strong evidence for the presence of an intermediate-mass black hole (IMBH).
 As ω Cen is likely the accreted nucleus of a dwarf galaxy, this IMBH also represents a unique opportunity to study black hole (BH) seeding mechanisms and their potential role in the formation of supermassive BHs.

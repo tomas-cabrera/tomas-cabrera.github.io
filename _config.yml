@@ -14,10 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tomás Cabrera
-email:
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Here I collect things I've worked on, things I'm interested in, and things I enjoy.
-twitter_username: username
 github_username: tomas-cabrera
 minimal_mistakes_skin: default
 search: true
@@ -27,8 +26,8 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Added later
@@ -64,12 +63,15 @@ plugins:
 
 author:
   name   : "Tomás Cabrera"
-  avatar : "assets/images/bio-photo.jpg"
+  avatar : "assets/images/mountain-sketch.jpg"
   bio    : "Astronomer, developer, human."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "tomas.nmn.cabrera[at]gmail.com"
+      icon: "fas fa-fw fa-envelope"
+      url: ""
+    - label: "tcabrera[at]andrew.cmu.edu"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tomas-cabrera"
@@ -88,6 +90,9 @@ footer:
 
 collections:
   publications:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -119,6 +124,14 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 category_archive:
   type: liquid
