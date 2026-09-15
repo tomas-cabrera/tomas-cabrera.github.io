@@ -25,7 +25,7 @@ My complete CV may be found in pdf form <a href="/files/cv_cabrera.pdf" target="
 * **Real-time discovery of electromagnetic counterparts to gravitational wave events**
   * Designed and implemented GPU-enabled image differencing pipeline to process DECam telescope images in real-time
   * Installed and operated pipeline on HPC systems (Pittsburgh Supercomputing Center, National Energy Research Scientific Computing Center), and optimized pipeline parallelization on such resources
-  * Developed software tools to automate observation planning, and distributed such tools as [healpix-painter](https://www.tomas-cabrera.github.io/healpix-painter) Python package
+  * Developed software tools to automate observation planning, and distributed such tools as [healpix-painter](https://tomas-cabrera.github.io/healpix-painter/) Python package
   * Led real-time follow-ups of gravitational wave alerts, including the triggering of additional multi-wavelength and spectroscopic resources to collect additional data on promising counterpart candidates
   * Administered and maintained internal SQL database to supply archival context to new discoveries
 
